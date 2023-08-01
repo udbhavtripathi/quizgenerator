@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Questgen AI   <br>
 
 ## Try advanced question generation models for free:  https://questgen.ai/  
@@ -238,3 +239,6 @@ https://questgen.ai/
 
 
 [![Linkedin Link](linkedin.png)](https://www.linkedin.com/company/30182152/)
+=======
+# quizgenerator
+>>>>>>> 251ee19ea109decc4e27739b72b729f2c697d406
